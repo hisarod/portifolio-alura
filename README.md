@@ -9,6 +9,7 @@ Este é um portfólio de exemplo desenvolvido com **HTML** e **CSS** para demons
 ## 📌 Funcionalidades  
 ✅ Home  
 ✅ Sobre mim
+
 ✅ Direcionamento para redes sociais
 
 
